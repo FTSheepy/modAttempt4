@@ -1,0 +1,6 @@
+com/example/Blocks/ExampleBlock.java
+ com.example.Blocks.ExampleBlock
+com/example/Inits/BlockInit.java
+ com.example.Inits.BlockInit
+com/example/examplemod/ExampleMod.java
+ com.example.examplemod.ExampleMod
