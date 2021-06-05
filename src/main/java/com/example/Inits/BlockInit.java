@@ -1,6 +1,6 @@
 package com.example.Inits;
 
-import com.example.Blocks.ExampleBlock;
+import com.example.block.ExampleBlock;
 import com.example.examplemod.ExampleMod;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
